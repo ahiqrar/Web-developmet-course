@@ -1,2 +1,2 @@
-# Web-developmet-course
+# Web-developmet
 web dev practice
